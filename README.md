@@ -1,6 +1,6 @@
 # angular-admin-lte
 
-Adminlte for Angular 2 without jQuery and bootstrap js.
+AdminLte for Angular 2 without jQuery and bootstrap js.
 
 ## Doc & Demo
 [https://mika-el.github.io/angular-admin-lte](https://mika-el.github.io/angular-admin-lte/)
