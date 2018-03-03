@@ -1,6 +1,6 @@
 # angular-admin-lte
 
-Admin-lte implémentation for Angular 4+
+Adminlte for Angular 2 without jQuery and bootstrap js.
 
 ## Doc & Demo
 [https://mika-el.github.io/angular-admin-lte](https://mika-el.github.io/angular-admin-lte/)
