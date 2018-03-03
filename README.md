@@ -1,4 +1,4 @@
-# angular-admin-lte
+# angular admin lte
 
 AdminLte for Angular 2 without jQuery and bootstrap js.
 
